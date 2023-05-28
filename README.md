@@ -33,18 +33,18 @@
   <summary>Sumário</summary>
   <ol>
     <li>
-      <a href="https://github.com/horodeski/TemplateDocumentacao/#-sobre-o-projeto">Sobre o projeto</a>
+      <a href="#sobre-o-projeto">Sobre o projeto</a>
       <ul>
-        <li><a href="https://github.com/horodeski/TemplateDocumentacao/#-nele-você-pode-encontrar">Nele você pode encontrar</a></li>
-        <li><a href="https://github.com/horodeski/TemplateDocumentacao/#-uso">Uso</a></li>
-        <li><a href="https://github.com/horodeski/TemplateDocumentacao/#-ver-telas">Ver telas</a></li>
+        <li><a href="#nele-você-pode-encontrar">Nele você pode encontrar</a></li>
+        <li><a href="#uso">Uso</a></li>
+        <li><a href="#ver-telas">Ver telas</a></li>
       </ul>
     </li>
     <li>
-      <a href="https://github.com/horodeski/TemplateDocumentacao/#-começando-o-projeto">Começando o projeto</a>
+      <a href="#começando-o-projeto">Começando o projeto</a>
       <ul>
-        <li><a href=https://github.com/horodeski/TemplateDocumentacao/#-pré-requisitos">Pré-requisitos</a></li>
-        <li><a href="https://github.com/horodeski/TemplateDocumentacao/#-instalacao">Instalação</a></li>
+        <li><a href="#pré-requisitos">Pré-requisitos</a></li>
+        <li><a href="#instalacao">Instalação</a></li>
       </ul>
     </li>
     <li><a href="#contato">Contato</a></li>
