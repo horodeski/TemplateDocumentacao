@@ -35,14 +35,16 @@
     <li>
       <a href="#sobre-o-projeto">Sobre o projeto</a>
       <ul>
-        <li><a href="#feito-com">Feito com</a></li>
+        <li><a href="#nele-você-pode-encontrar">Nele você pode encontrar</a></li>
+        <li><a href="#uso">Uso</a></li>
+        <li><a href="#ver-telas">Ver telas</a></li>
       </ul>
     </li>
     <li>
-      <a href="#comencando-o-projeto">Começando o projeto</a>
+      <a href="#começando-o-projeto">Começando o projeto</a>
       <ul>
-        <li><a href="#prerequisitos">Pré-requisitos</a></li>
-        <li><a href="#instalacao">Instalação</a></li>
+        <li><a href="#pré-requisitos">Pré-requisitos</a></li>
+        <li><a href="#instalação">Instalação</a></li>
       </ul>
     </li>
     <li><a href="#contato">Contato</a></li>
@@ -78,7 +80,7 @@ Uma breve explicação de como funciona a aplicação. Lorem ipsum dolor sit ame
 Et suscipit impedit qui voluptate nihil aut rerum culpa? Ut autem sunt ab vero dolor et blanditiis sunt et culpa laborum qui quae voluptas. Et nobis temporibus et iusto consectetur ut cumque architecto.
 
 <details>
-  <summary>Ver telas</summary>
+  <summary name="ver-telas">Ver telas</summary>
     <img src="screenshot.png" />
 </details>
 
@@ -105,7 +107,7 @@ Ter o NPM instalado
    git clone https://github.com/horodeski/HumildeTentativaDeFazerUmPortfolio
    ```
 
-* Instale os pacotes do Node.js
+* Instale as dependências
   ```sh
   npm install
   ```
