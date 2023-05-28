@@ -73,7 +73,7 @@ Est deserunt minima ea earum magnam in doloremque nisi aut omnis rerum ut enim v
 
 
 #### Uso:
-Uma breve expliacação de como funciona a aplicação. Lorem ipsum dolor sit amet. Sit similique iure et necessitatibus similique et perspiciatis nesciunt ea velit voluptas et doloremque numquam. Et culpa autem eos velit sunt ut molestiae dolorem non aperiam aliquid est quasi excepturi eum nemo minima a consequatur illo?
+Uma breve explicação de como funciona a aplicação. Lorem ipsum dolor sit amet. Sit similique iure et necessitatibus similique et perspiciatis nesciunt ea velit voluptas et doloremque numquam. Et culpa autem eos velit sunt ut molestiae dolorem non aperiam aliquid est quasi excepturi eum nemo minima a consequatur illo?
 
 Et suscipit impedit qui voluptate nihil aut rerum culpa? Ut autem sunt ab vero dolor et blanditiis sunt et culpa laborum qui quae voluptas. Et nobis temporibus et iusto consectetur ut cumque architecto.
 
@@ -121,7 +121,7 @@ Ter o NPM instalado
 <!-- CONTACT -->
 ### Contato
 
-Pessoa da Silva - [@usertt](https://twitter.com) - pessoa.silva@gmail.com
+Geovana Sophia Horodeski - [@_horodeski](https://twitter.com/_horodeski) - geovana.horodeski06@gmail.com
 
 Link do projeto: [https://github.com/horodeski/TemplateDocumentacao](https://github.com/horodeski/TemplateDocumentacao)
 
