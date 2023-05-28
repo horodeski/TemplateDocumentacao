@@ -44,7 +44,7 @@
       <a href="#começando-o-projeto">Começando o projeto</a>
       <ul>
         <li><a href="#pré-requisitos">Pré-requisitos</a></li>
-        <li><a href="#instalacao">Instalação</a></li>
+        <li><a href="#instalação">Instalação</a></li>
       </ul>
     </li>
     <li><a href="#contato">Contato</a></li>
