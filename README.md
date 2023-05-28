@@ -53,28 +53,29 @@
 
 <!-- ABOUT THE PROJECT -->
 ### Sobre o projeto
-<img src="screenshot.png"> 
-Meu portfólio apresenta uma variedade de projetos e habilidades técnicas que demonstram minha capacidade de desenvolver soluções completas, desde o front-end até o back-end e o mobile.
+Lorem ipsum dolor sit amet. Aut quas ipsum et sint amet ad quidem repudiandae id quia maxime. Eum internos excepturi rem soluta consequuntur aut sunt officia qui aliquid expedita aut ducimus fuga. Ut sequi laudantium ea quasi dignissimos est nulla voluptas aut unde eveniet aut ipsa velit!
 
-Nele você pode encontrar:
-* Informações sobre mim
-* Qualificação
-* Skills (HardSkills e SoftSkills)
-* Projetos
+Est deserunt minima ea earum magnam in doloremque nisi aut omnis rerum ut enim velit. Est exercitationem consequatur vel sint beatae qui delectus odit est labore assumenda. Aut enim iure qui iste corporis ab repellendus reprehenderit et commodi distinctio. Ea dolor debitis qui officiis asperiores ut architecto praesentium et facilis aliquam.
 
-
-<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
-
-
-
-### Feito com
-
-  * <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="CSS"
+ <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="CSS"
     src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
     </a>
-  * <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="VueJS"
+   <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="VueJS"
     src="https://img.shields.io/badge/-VueJS-40b684?logo=vue.js&logoColor=white&style=flat-square">
     </a>
+    
+#### Nele você pode encontrar:
+* Lorem ipsum dolor sit amet
+* Unde eveniet
+* Aut quas ipsum et sint amet
+* Et provident quidem est omnis
+
+<details>
+  <summary>Ver telas</summary>
+    <img src="screenshot.png" />
+</details>
+
+
 
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
