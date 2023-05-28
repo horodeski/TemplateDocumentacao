@@ -53,8 +53,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ### Sobre o projeto
-
-<img src="src/assets/img/Captura de tela de 2023-05-12 21-39-54.png"> 
+<img src="screenshot.png"> 
 Meu portfólio apresenta uma variedade de projetos e habilidades técnicas que demonstram minha capacidade de desenvolver soluções completas, desde o front-end até o back-end e o mobile.
 
 Nele você pode encontrar:
