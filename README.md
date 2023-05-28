@@ -1,8 +1,13 @@
-[![Latest release](https://img.shields.io/github/v/release/horodeski/TemplateDocumentacao?label=Latest%20release&style=social)](https://github.com/horodeski/TemplateDocumentacao/releases/tag/v1.0.0)
-[![GitHub commits](https://img.shields.io/github/commits-since/horodeski/TemplateDocumentacao/v1.0.0.svg?style=social)](https://github.com/horodeski/TemplateDocumentacao/commit/)
-[![Stars](https://img.shields.io/github/stars/horodeski/TemplateDocumentacao?style=social)](https://github.com/horodeski/TemplateDocumentacao/stargazers)
-[![Fork](https://img.shields.io/github/forks/horodeski/TemplateDocumentacao?style=social)](https://github.com/horodeski/TemplateDocumentacao/network/members)
-[![Watchers](https://img.shields.io/github/watchers/horodeski/TemplateDocumentacao?style=social)](hthttps://github.com/horodeski/TemplateDocumentacao/watchers)
+<div align="center">
+  
+  [![Latest release](https://img.shields.io/github/v/release/horodeski/TemplateDocumentacao?label=Latest%20release&style=social)](https://github.com/horodeski/TemplateDocumentacao/releases/tag/v1.0.0)
+  [![GitHub commits](https://img.shields.io/github/commits-since/horodeski/TemplateDocumentacao/v1.0.0.svg?style=social)](https://github.com/horodeski/TemplateDocumentacao/commit/)
+  [![Stars](https://img.shields.io/github/stars/horodeski/TemplateDocumentacao?style=social)](https://github.com/horodeski/TemplateDocumentacao/stargazers)
+  [![Fork](https://img.shields.io/github/forks/horodeski/TemplateDocumentacao?style=social)](https://github.com/horodeski/TemplateDocumentacao/network/members)
+  [![Watchers](https://img.shields.io/github/watchers/horodeski/TemplateDocumentacao?style=social)](hthttps://github.com/horodeski/TemplateDocumentacao/watchers)
+  
+</div>
+
 
 <a name="readme-top"></a>
 <div align="center">
@@ -115,5 +120,13 @@ Ter o NPM instalado
 Pessoa da Silva - [@usertt](https://twitter.com) - pessoa.silva@gmail.com
 
 Link do projeto: [https://github.com/horodeski/TemplateDocumentacao](https://github.com/horodeski/TemplateDocumentacao)
+
+<div align="center">
+  
+  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+  [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+  
+  
+</div>
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
