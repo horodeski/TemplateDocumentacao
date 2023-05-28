@@ -1,20 +1,23 @@
+[![Latest release](https://img.shields.io/github/v/release/horodeski/TemplateDocumentacao?label=Latest%20release&style=social)](https://github.com/horodeski/TemplateDocumentacao/releases/tag/v1.0.0)
+[![GitHub commits](https://img.shields.io/github/commits-since/horodeski/TemplateDocumentacao/v1.0.0.svg?style=social)](https://github.com/horodeski/TemplateDocumentacao/commit/)
+[![Stars](https://img.shields.io/github/stars/horodeski/TemplateDocumentacao?style=social)](https://github.com/horodeski/TemplateDocumentacao/stargazers)
+[![Fork](https://img.shields.io/github/forks/horodeski/TemplateDocumentacao?style=social)](https://github.com/horodeski/TemplateDocumentacao/network/members)
+[![Watchers](https://img.shields.io/github/watchers/horodeski/TemplateDocumentacao?style=social)](hthttps://github.com/horodeski/TemplateDocumentacao/watchers)
+
 <a name="readme-top"></a>
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/horodeski/HumildeTentativaDeFazerUmPortfolio">
+    <!-- logo se tiver 
     <img src="src/assets/img/logo.png" alt="Logo" width="200" height="200">
+-->
   </a>
 
-  <h2 align="center">Nome do projeto!</h2>
+  <h2 align="center">Documentação!</h2>
 
   <p align="center">
-    Bem vindo ao nome do projeto!
+    <i>"O código é poesia em movimento." - John F. Kennedy</i>
     <br />
-    <a href="https://github.com/horodeski/TemplateDocumentacao"><strong>Explorar o readme »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/horodeski/TemplateDocumentacao">Ver projeto</a>
+    <a href="https://github.com/horodeski/TemplateDocumentacao"><strong>Ver site »</strong></a>
   </p>
 </div>
 
