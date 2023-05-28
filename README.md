@@ -70,13 +70,17 @@ Est deserunt minima ea earum magnam in doloremque nisi aut omnis rerum ut enim v
 * Aut quas ipsum et sint amet
 * Et provident quidem est omnis
 
+
+
+#### Uso:
+Uma breve expliacação de como funciona a aplicação. Lorem ipsum dolor sit amet. Sit similique iure et necessitatibus similique et perspiciatis nesciunt ea velit voluptas et doloremque numquam. Et culpa autem eos velit sunt ut molestiae dolorem non aperiam aliquid est quasi excepturi eum nemo minima a consequatur illo?
+
+Et suscipit impedit qui voluptate nihil aut rerum culpa? Ut autem sunt ab vero dolor et blanditiis sunt et culpa laborum qui quae voluptas. Et nobis temporibus et iusto consectetur ut cumque architecto.
+
 <details>
   <summary>Ver telas</summary>
     <img src="screenshot.png" />
 </details>
-
-
-
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
